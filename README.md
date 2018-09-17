@@ -77,3 +77,39 @@ Feb 2012 - Jun 2016
     
     : Founder and Leader, System Manager, Volunteer 
     
+
+
+# SKILLS
+
+
+
+HTML5
+JS
+CSS
+Python
+AJax
+Angular
+Java
+ASP
+PHP
+DB/MS-SQL
+DB/MY-SQL
+DB/ORACLE
+O.S./Windows
+O.S./Linux
+Software
+MS Office
+Adobe XD
+Photoshop
+Visual Paradigm
+
+
+
+# Language
+
+
+
+English
+Korean
+Chinese
+
