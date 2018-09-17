@@ -83,24 +83,30 @@ Feb 2012 - Jun 2016
 
 
 
-HTML5
-JS
-CSS
+HTML5 / JS / CSS / 
+
 Python
+
 AJax
+
 Angular
+
 Java
+
 ASP
+
 PHP
-DB/MS-SQL
-DB/MY-SQL
-DB/ORACLE
-O.S./Windows
-O.S./Linux
-Software
+
+DB - MS-SQL /MY-SQL /ORACLE
+
+O.S. - Windows /Linux 
+
 MS Office
+
 Adobe XD
+
 Photoshop
+
 Visual Paradigm
 
 
