@@ -7,7 +7,7 @@ My resume @ 2018 version
 
 Sept 2017 - Present	: 
 
-    Sheridan College in Oakville : System Analyst Coop Program
+    Sheridan College in Oakville : System Analyst Co-op Program
     
 Mar 1996 - Feb 2000	
 
