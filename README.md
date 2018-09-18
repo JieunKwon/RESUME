@@ -111,13 +111,13 @@ Visual Paradigm
 
 
 
-# Language
+# LANGUAGE
 
 
 
-English
+English - Advanced
 
-Korean
+Korean - Native
 
-Chinese
+Chinese - Advanced
 
