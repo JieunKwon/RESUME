@@ -1,5 +1,4 @@
-# RESUME
-@ 2018 version
+# RESUME @ 2018 
 -------------------
 
 # NAME
@@ -7,6 +6,15 @@
 
 Jieun Kwon
 
+
+# SUMMARY
+
+
+
+	8 years experience in Web Developer 
+	Professional programming language skills
+	Extensive expirience in team project environment 
+	Strong problem solving ability
 
 
 # EDUCATION
