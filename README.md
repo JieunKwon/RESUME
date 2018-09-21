@@ -1,8 +1,7 @@
- RESUME @ 2018 
--------------------
+# RESUME @ 2018 
 
-# Jieun Kwon
-
+ Jieun Kwon
+---------------
 
 # SUMMARY
 
