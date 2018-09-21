@@ -10,11 +10,13 @@ Jieun Kwon
 # SUMMARY
 
 
+    - 8 years experience in Web Developer 
 
-	8 years experience in Web Developer 
-	Professional programming language skills
-	Extensive expirience in team project environment 
-	Strong problem solving ability
+    - Professional programming language skills
+    
+    - Extensive expirience in team project environment 
+    
+    - Strong problem solving ability
 
 
 # EDUCATION
@@ -83,7 +85,7 @@ Mar 2018
 
 
 
-# OTHER
+# OTHER EXPERIENCE
 
 
 
@@ -95,45 +97,39 @@ Feb 2012 - Jun 2016
     
 
 
-# SKILLS
+# TECHNICAL SKILLS
 
 
+Language 
+    
+    HTML5 / JS / CSS / Python / AJax / Angular
 
-HTML5 / JS / CSS / 
+    Java
 
-Python
+    ASP
 
-AJax
+    PHP
 
-Angular
+DB 
 
-Java
+    MS-SQL / MY-SQL / ORACLE
 
-ASP
+O.S. 
+    
+    Windows / Linux 
 
-PHP
 
-DB - MS-SQL /MY-SQL /ORACLE
+Program or Tool
 
-O.S. - Windows /Linux 
-
-MS Office
-
-Adobe XD
-
-Photoshop
-
-Visual Paradigm
-
+    MS Office / Adobe XD / Photoshop / Visual Paradigm
 
 
 # LANGUAGE
 
 
+    English - Advanced
 
-English - Advanced
+    Korean - Native
 
-Korean - Native
-
-Chinese - Advanced
+    Chinese - Advanced
 
