@@ -1,6 +1,6 @@
 # RESUME @ 2018 
 
- Jieun Kwon
+![logo](./logo.png) Jieun Kwon
 ---------------
 
 # SUMMARY
