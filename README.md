@@ -1,5 +1,6 @@
 # RESUME
-My resume @ 2018 version
+@ 2018 version
+-------------------
 
 # NAME
 
