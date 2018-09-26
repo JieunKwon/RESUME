@@ -1,5 +1,6 @@
 
-# RESUME @ 2018 
+# RESUME @ 2018 @ Full Stack Developer
+
 
  Jieun Kwon
 ---------------
