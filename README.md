@@ -128,7 +128,7 @@ Program or Tool
 
     English - Advanced
 
-    Korean - Native
+    Korean  - Native
 
     Chinese - Advanced
 
