@@ -63,6 +63,7 @@ Mar 2003 – Dec 2009
 
 Oct 2018
 
+     Web Application - Product Manager
      (HTML, CSS, JS, Java servlet, MySQL)
 
 Apr 2018	
