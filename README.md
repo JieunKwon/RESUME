@@ -68,15 +68,18 @@ Oct 2018
 
 Apr 2018	
 
-    Demo Sheridan Course Inventory (JAVA) 
+    Demo Sheridan Course Inventory 
+    (JAVA) 
     
 Mar 2018	
 
-    Demo Tim Horton Coffee Ordering  (PHP, MY-SQL, HTML 5, CSS)
+    Demo Tim Horton Coffee Ordering  
+    (PHP, MY-SQL, HTML 5, CSS)
     
 Mar 2018	
 
-    User Interface Design - Mobile Food Ordering System (Adobe XD, PPT) 
+    User Interface Design - Mobile Food Ordering System 
+    (Adobe XD, PPT) 
     
 2003 - 2004	
 
@@ -84,7 +87,7 @@ Mar 2018
     
     (HTML, CSS, JS, ASP, MS-SQL)
     
-    ***Digital Contents Award Winner by Ministry of Information and Communication 
+    ** Digital Contents Award Winner by Ministry of Information and Communication **
 
 
 
