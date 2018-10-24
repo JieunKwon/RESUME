@@ -25,7 +25,7 @@
 
 Sept 2017 - Present	: 
 
-    Sheridan College in Oakville : System Analyst Co-op Program
+    Sheridan College in Oakville : Systems Analyst Co-op Program
     
 Mar 1996 - Feb 2000	
 
@@ -61,7 +61,9 @@ Mar 2003 – Dec 2009
 
 # PROJECT
 
+Oct 2018
 
+     (HTML, CSS, JS, Java servlet, MySQL)
 
 Apr 2018	
 
@@ -77,7 +79,7 @@ Mar 2018
     
 2003 - 2004	
 
-    Web-based Online Education System
+    Web-based Online Learning System
     
     (HTML, CSS, JS, ASP, MS-SQL)
     
