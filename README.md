@@ -13,7 +13,7 @@
 
     - Professional programming language skills
     
-    - Extensive expirience in team project environment 
+    - Extensive experiences in team project environment 
     
     - Strong problem solving ability
 
@@ -114,7 +114,7 @@ Language
 
 DB 
 
-    MS-SQL / MY-SQL / ORACLE
+    MS-SQL / My-SQL / ORACLE
 
 O.S. 
     
@@ -123,7 +123,7 @@ O.S.
 
 Program or Tool
 
-    MS Office / Adobe XD / Photoshop / Visual Paradigm
+    MS Office / Adobe XD / Photoshop / Visual Paradigm / Report Builder
 
 
 # LANGUAGE
