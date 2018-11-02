@@ -43,7 +43,7 @@ Mar 2003 – Dec 2009
     
     : Web Developer, Web Master, Web Administrator, Project Manager
     
-    (HTML, JS, CSS, ASP, MS-SQL) 
+    (HTML, JS, CSS, ASP, PHP, MS-SQL, MySQL, Oracle) 
     
 2001 - 2002	
 
@@ -55,7 +55,7 @@ Mar 2003 – Dec 2009
 
     ZIO.inc in Seoul of South Korea
     
-    : Junior Web Programmer (HTML, JS, CSS, PHP, MY-SQL, ORACLE) 
+    : Junior Web Programmer (HTML, JS, CSS, PHP, MySQL, Oracle) 
     
 
 
@@ -118,7 +118,7 @@ Language
 
 DB 
 
-    MS-SQL / My-SQL / ORACLE
+    MS-SQL / MySQL / ORACLE
 
 O.S. 
     
