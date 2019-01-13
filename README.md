@@ -8,14 +8,14 @@
 
 # SUMMARY
 
-
-    - 8 years experience in Web Developer 
-
-    - Professional programming language skills
-    
-    - Extensive experiences in team project environment 
-    
-    - Strong problem solving ability
+    o	BA in Electronic & Computer Engineering
+    o	Diploma in Computer Programmer
+    o	5 years Web Developer experiences
+    o	4 years Volunteer experiences
+    o	Professional programming language skills
+    o	Various Project Management experiences 
+    o	Self-motivated and a quick learner.
+    o	Strong problem solving ability
 
 
 
