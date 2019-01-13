@@ -1,10 +1,8 @@
 
----------------------------------------------
 
- #
+
  #               Jieun Kwon
 
----------------------------------------------
 
 
 # RESUME @ 2019 @ Full Stack Developer
@@ -43,10 +41,11 @@ o Mar 1996 - Feb 2000
 o Mar 2003 – Jul 2007	
 
     Web Developer, Web Master, Web Administrator, Project Manager
+    (HTML, JS, CSS, ASP, PHP, MS-SQL, MySQL, Oracle) 
     
     : INFOLIO.inc in Seoul of South Korea
     
-    (HTML, JS, CSS, ASP, PHP, MS-SQL, MySQL, Oracle) 
+    
     
 o 2001 - 2002	
 
@@ -57,23 +56,36 @@ o 2001 - 2002
     
 o 2000 - 2001	
 
-    ZIO.inc in Seoul of South Korea
+    Junior Web Programmer
+    (HTML, JS, CSS, PHP, MySQL, Oracle) 
     
-    : Junior Web Programmer (HTML, JS, CSS, PHP, MySQL, Oracle) 
+    : ZIO.inc in Seoul of South Korea
     
-
-
+ 
 # PROJECT
 
-o Oct 2018
+Nov 2018
 
-     Web Application - Product Manager
-     (HTML, CSS, JS, Java servlet, MySQL)
+	 
+
+Nov 2018	  
+
+
+
+o Dec 2018
+
+     Shoes Online Shopping - Web Application
+     (MVC modeling implementation - JavaEE servlet, My-SQL, JSP, Bootstrap)
+
+o Nov 2018
+
+    Database Design and Implementation for Out-door Activity Website
+    (MS-SQL/NoSQL, MS-Visio, Visual Paradigm)
 
 o Apr 2018	
 
     Demo Sheridan Course Inventory 
-    (JAVA) 
+    (JAVA, Java Framework) 
     
 o Mar 2018	
 
