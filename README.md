@@ -1,12 +1,14 @@
 
 ---------------------------------------------
 
-                Jieun Kwon
+ #
+ #               Jieun Kwon
 
 ---------------------------------------------
 
 
 # RESUME @ 2019 @ Full Stack Developer
+
 
 # SUMMARY
 
@@ -25,11 +27,11 @@
 
 
 
-Sept 2017 - Present	: 
+o Sept 2017 - Present	: 
 
     Sheridan College in Oakville : Systems Analyst Co-op Program
     
-Mar 1996 - Feb 2000	
+o Mar 1996 - Feb 2000	
 
     Dankook University in Seoul of South Korea : Major of Electronic & Computer Engineering    
     
@@ -39,7 +41,7 @@ Mar 1996 - Feb 2000
 
 
 
-Mar 2003 – Dec 2009	
+o Mar 2003 – Jul 2007	
 
     INFOLIO.inc in Seoul of South Korea
     
@@ -47,13 +49,13 @@ Mar 2003 – Dec 2009
     
     (HTML, JS, CSS, ASP, PHP, MS-SQL, MySQL, Oracle) 
     
-2001 - 2002	
+o 2001 - 2002	
 
     NTT in Tokyo of Japan
     
     : Junior C developer
     
-2000 - 2001	
+o 2000 - 2001	
 
     ZIO.inc in Seoul of South Korea
     
@@ -63,27 +65,27 @@ Mar 2003 – Dec 2009
 
 # PROJECT
 
-Oct 2018
+o Oct 2018
 
      Web Application - Product Manager
      (HTML, CSS, JS, Java servlet, MySQL)
 
-Apr 2018	
+o Apr 2018	
 
     Demo Sheridan Course Inventory 
     (JAVA) 
     
-Mar 2018	
+o Mar 2018	
 
     Demo Tim Horton Coffee Ordering  
     (PHP, MY-SQL, HTML 5, CSS)
     
-Mar 2018	
+o Mar 2018	
 
     User Interface Design - Mobile Food Ordering System 
     (Adobe XD, PPT) 
     
-2003 - 2004	
+o 2003 - 2004	
 
     Web-based Online Learning System
     
@@ -97,7 +99,7 @@ Mar 2018
 
 
 
-Feb 2012 - Jun 2016
+Jan 2012 - Jun 2016
 
     Korean Community Library in Shanghai of China 
     
