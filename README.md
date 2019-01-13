@@ -36,7 +36,12 @@ o Mar 1996 - Feb 2000
 
 # WORK EXPERIENCE                 
 
+o Jan 2012 - Jun 2016
 
+    Founder and Leader, System Manager, Volunteer
+
+    : Korean Community Library in Shanghai of China 
+  
 
 o Mar 2003 – Jul 2007	
 
@@ -64,14 +69,6 @@ o 2000 - 2001
  
 # PROJECT
 
-Nov 2018
-
-	 
-
-Nov 2018	  
-
-
-
 o Dec 2018
 
      Shoes Online Shopping - Web Application
@@ -82,6 +79,11 @@ o Nov 2018
     Database Design and Implementation for Out-door Activity Website
     (MS-SQL/NoSQL, MS-Visio, Visual Paradigm)
 
+o Oct 2018
+
+    Product Management Web Application  
+    (HTML, CSS, JS, Java servlet, MySQL)
+     
 o Apr 2018	
 
     Demo Sheridan Course Inventory 
@@ -99,7 +101,7 @@ o Mar 2018
     
 o 2003 - 2004	
 
-    Web-based Online Learning System
+    Web-based  E-Learning System
     
     (HTML, CSS, JS, ASP, MS-SQL)
     
@@ -107,45 +109,44 @@ o 2003 - 2004
 
 
 
-# OTHER EXPERIENCE
-
-
-
-Jan 2012 - Jun 2016
-
-    Korean Community Library in Shanghai of China 
-    
-    : Founder and Leader, System Manager, Volunteer 
-    
-
-
 # TECHNICAL SKILLS
 
 
-Language 
+o Language 
     
-    HTML5 / JS / CSS / Python / AJax / Angular
+    HTML5 / CSS / Bootstrap 
+    
+    JS / JQuery / Angular
 
-    Java
-
-    ASP
+    Java / JavaEE
+    
+    C# / .Net
+    
+    JSP / ASP
 
     PHP
+    
 
-DB 
+o DB 
 
-    MS-SQL / MySQL / ORACLE
+    MS-SQL / MySQL / ORACLE /NoSQL
 
-O.S. 
+o O.S. 
     
     Windows / Linux 
 
 
-Program or Tool
+o Program or Tool
 
-    MS Office / Adobe XD / Photoshop / Visual Paradigm / Report Builder
+    MS Office / Adobe XD / Adobe Photoshop / Visual Paradigm / Report Builder
+    
+    GNS3 / Cisco Packet Tracer / WireShark
 
-
+    Visual Studio / NetBeans / Eclipse / Notepad++ 
+    
+    Git
+    
+    
 # LANGUAGE
 
 
