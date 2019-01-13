@@ -26,14 +26,13 @@
 # EDUCATION
 
 
+o Sept 2017 - Apr 2019 (expected graduation date)	
 
-o Sept 2017 - Present	: 
-
-    Sheridan College in Oakville : Systems Analyst Co-op Program
+    Diploma in Computer Programmer at Sheridan College in Oakville  
     
 o Mar 1996 - Feb 2000	
 
-    Dankook University in Seoul of South Korea : Major of Electronic & Computer Engineering    
+    Bachelor’s degree in Electronic & Computer Engineering at Dankook University in Seoul of South Korea :    
     
 
 
@@ -43,17 +42,18 @@ o Mar 1996 - Feb 2000
 
 o Mar 2003 – Jul 2007	
 
-    INFOLIO.inc in Seoul of South Korea
+    Web Developer, Web Master, Web Administrator, Project Manager
     
-    : Web Developer, Web Master, Web Administrator, Project Manager
+    : INFOLIO.inc in Seoul of South Korea
     
     (HTML, JS, CSS, ASP, PHP, MS-SQL, MySQL, Oracle) 
     
 o 2001 - 2002	
 
-    NTT in Tokyo of Japan
+    Junior C developer
     
-    : Junior C developer
+    : NTT in Tokyo of Japan
+    
     
 o 2000 - 2001	
 
