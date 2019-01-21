@@ -1,7 +1,7 @@
 
 
 
- #               Jieun Kwon
+ #              Julia Jieun Kwon
 
 
 
@@ -49,7 +49,6 @@ o Mar 2003 – Jul 2007
     (HTML, JS, CSS, ASP, PHP, MS-SQL, MySQL, Oracle) 
     
     : INFOLIO.inc in Seoul of South Korea
-    
     
     
 o 2001 - 2002	
@@ -116,20 +115,18 @@ o Language
     
     HTML5 / CSS / Bootstrap 
     
-    JS / JQuery / Angular
+    JS / JQuery / JSON
 
     Java / JavaEE
     
     C# / .Net
     
-    JSP / ASP
-
-    PHP
+    JSP / ASP / PHP
     
 
 o DB 
 
-    MS-SQL / MySQL / ORACLE /NoSQL
+    MS-SQL / MySQL / ORACLE / NoSQL
 
 o O.S. 
     
@@ -138,13 +135,13 @@ o O.S.
 
 o Program or Tool
 
-    MS Office / Adobe XD / Adobe Photoshop / Visual Paradigm / Report Builder
+    MS Office / MS Project / Adobe XD / Adobe Photoshop / Visual Paradigm / Report Builder
     
     GNS3 / Cisco Packet Tracer / WireShark
 
     Visual Studio / NetBeans / Eclipse / Notepad++ 
     
-    Git
+    GitHub
     
     
 # LANGUAGE
