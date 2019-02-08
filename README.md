@@ -5,7 +5,7 @@
 
 
 
-RESUME @ 2019 @ Full Stack Developer
+RESUME @ 2019 @ Full Stack Developer / Web Developer / Java Developer
 
 
 # SUMMARY
