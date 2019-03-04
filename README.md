@@ -10,7 +10,7 @@ RESUME @ 2019 @ Full Stack Developer / Web Developer / Java Developer
 
 # SUMMARY
 
-    o	BA in Electronic & Computer Engineering
+    o	Bachelor degree in Electronic & Computer Engineering
     o	Diploma in Computer Programmer
     o	5 years Web Developer experiences
     o	4 years Volunteer experiences
@@ -113,7 +113,7 @@ o 2003 - 2004
 
 o Language 
     
-    HTML5 / CSS / Bootstrap 
+    HTML5 / CSS / Bootstrap 3
     
     JS / JQuery / JSON
 
