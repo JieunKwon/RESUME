@@ -38,33 +38,40 @@ o Mar 1996 - Feb 2000
 
 o Jan 2012 - Jun 2016
 
-    Founder and Leader, System Manager, Volunteer
+    Founder and Lead of Volunteer, Technical Support 
 
-    : Korean Community Library in Shanghai of China 
+    : Korean Community Library 
   
 
-o Mar 2003 – Jul 2007	
+    	Technical support of Library’s online management system for about 3,000 books and 400 membership account
+    	Installing and managing the technical tools for helping volunteer task 
+    such as barcode machine, printer, label printing machine, security camera, and laptop
+    	Creating the report files for monthly and yearly top members and best books using MS Access
+    	Training new volunteers for dealing with the library system 
 
-    Web Developer, Web Master, Web Administrator, Project Manager
-    (HTML, JS, CSS, ASP, PHP, MS-SQL, MySQL, Oracle) 
+
+o Mar 2003 – Jul 2008	
+
+    Web Developer, Web Master, Web Administrator
+    (HTML, JavaScript, CSS, ASP, PHP, MS-SQL, MySQL) 
     
     : INFOLIO.inc in Seoul of South Korea
+    
+    
+    	Web server and DB server management for running websites
+    	English learning online website development of total 100+ source files using ASP, JavaScript, HTML
+    	Database design and creating queries with MS-SQL 
+    	Testing and debugging  
+
+    
     
     
 o 2001 - 2002	
 
     Junior C developer
     
-    : NTT in Tokyo of Japan
-    
-    
-o 2000 - 2001	
-
-    Junior Web Programmer
-    (HTML, JS, CSS, PHP, MySQL, Oracle) 
-    
-    : ZIO.inc in Seoul of South Korea
-    
+    : in Tokyo of Japan
+ 
  
 # PROJECT
 
