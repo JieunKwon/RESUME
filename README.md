@@ -80,8 +80,7 @@ o Dec 2018
      (MVC modeling implementation - JavaEE servlet, My-SQL, JSP, Bootstrap3 )
      
      - online shopping application at the Java web technology platform, JSP, and servlets.
-     - <a href='https://github.com/JieunKwon/JavaEE-servlet-Jsp-MySQL-Bootstrap-' >https://github.com/JieunKwon/JavaEE-servlet-Jsp-MySQL-Bootstrap-</a>
-     
+      
 
 o Nov 2018
 
@@ -117,11 +116,19 @@ o Mar 2018
     
 o 2003 - 2004	
 
-    Web-based  E-Learning System
+    Web-based E-Learning Application
     
-    (HTML, CSS, JS, ASP, MS-SQL)
+    (HTML, CSS, JavaScript, ASP, MS-SQL)
     
-    ** Digital Contents Award Winner by Ministry of Information and Communication **
+    - Main developer for web-based online English learning application
+    - Database design 
+    - The complicated level upgrading system development using JavaScript for the front-end and ASP for the back-end
+    - Creating full testing data for tester and debugging 
+    - Used as afterschool activity content in some primary public schools
+    - HTML, CSS, JavaScript, ASP, MS-SQL 
+
+
+    ** 2004' Digital Contents Award Winner by Ministry of Information and Communication **
 
 
 
