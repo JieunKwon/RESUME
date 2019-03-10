@@ -30,7 +30,7 @@ o Sept 2017 - Apr 2019 (expected graduation date)
     
 o Mar 1996 - Feb 2000	
 
-    Bachelor’s degree in Electronic & Computer Engineering at Dankook University in Seoul of South Korea :    
+    Bachelor’s degree in Electronic & Computer Engineering at Dankook University   
     
 
 
@@ -66,6 +66,8 @@ o Mar 2003 – Jul 2008
 
 o Current 
    
+    <b> Online Bookstore Web Application </b>
+    
     - Implementation of basic concept for web application. 
     - Database design and Class Design. 
     - Member registration and login, order items with shopping bag, and administration functionalities.  
