@@ -93,6 +93,14 @@ o Nov 2018
     -MS-SQL creating tables and inserting data 
     -NoSQL of JSON structure, creating collections and documents using MongoDB 
 
+o Oct 2018
+
+    SQL Query and Report
+    (MS-SQL, MS Report Builder)
+    
+    -Understanding Database Structure 
+    -Creating Queries (select statement, joins, grouping) 
+    -Report Building using MS Report Builder 
 
 o Oct 2018
 
@@ -159,7 +167,7 @@ o O.S.
 
 o Program or Tool
 
-    MS Office / MS Project / Adobe XD / Adobe Photoshop / Visual Paradigm / Report Builder
+    MS Office / MS Project / Adobe XD / Adobe Photoshop / Visual Paradigm / MS Report Builder
     
     GNS3 / Cisco Packet Tracer / WireShark
 
