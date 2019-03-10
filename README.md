@@ -79,19 +79,26 @@ o Dec 2018
      Shoes Online Shopping - Web Application
      (MVC modeling implementation - JavaEE servlet, My-SQL, JSP, Bootstrap3 )
      
-     	online shopping application at the Java web technology platform, JSP, and servlets.
-     	https://github.com/JieunKwon/JavaEE-servlet-Jsp-MySQL-Bootstrap-
+     - online shopping application at the Java web technology platform, JSP, and servlets.
+     - <a href='https://github.com/JieunKwon/JavaEE-servlet-Jsp-MySQL-Bootstrap-' >https://github.com/JieunKwon/JavaEE-servlet-Jsp-MySQL-Bootstrap-</a>
      
 
 o Nov 2018
 
     Database Design and Implementation for Out-door Activity Website
     (MS-SQL/NoSQL, MS-Visio, Visual Paradigm)
+    
+    -Database design process from the development of business rules for Out-door Activity Website Case-Study
+    -Team project experience of 4 members for 14 weeks 
+    -RDBMS structure, logical modeling, normalization, physical modeling
+    -MS-SQL creating tables and inserting data 
+    -NoSQL of JSON structure, creating collections and documents using MongoDB 
+
 
 o Oct 2018
 
     Product Management Web Application  
-    (HTML, CSS, JS, Java servlet, MySQL)
+    (HTML, CSS, JavaScript, Java servlet, MySQL)
      
 o Apr 2018	
 
@@ -101,7 +108,7 @@ o Apr 2018
 o Mar 2018	
 
     Demo Tim Horton Coffee Ordering  
-    (PHP, MY-SQL, HTML 5, CSS)
+    (PHP, MySQL, HTML 5, CSS)
     
 o Mar 2018	
 
