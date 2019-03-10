@@ -66,7 +66,7 @@ o Mar 2003 – Jul 2008
 
 o Current 
    
-    <b> Online Bookstore Web Application </b>
+    Online Bookstore Web Application 
     
     - Implementation of basic concept for web application. 
     - Database design and Class Design. 
@@ -77,7 +77,11 @@ o Current
 o Dec 2018
 
      Shoes Online Shopping - Web Application
-     (MVC modeling implementation - JavaEE servlet, My-SQL, JSP, Bootstrap)
+     (MVC modeling implementation - JavaEE servlet, My-SQL, JSP, Bootstrap3 )
+     
+     	online shopping application at the Java web technology platform, JSP, and servlets.
+     	https://github.com/JieunKwon/JavaEE-servlet-Jsp-MySQL-Bootstrap-
+     
 
 o Nov 2018
 
