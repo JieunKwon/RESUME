@@ -88,7 +88,7 @@ o Nov 2018
     (MS-SQL/NoSQL, MS-Visio, Visual Paradigm)
     
     -Database design process from the development of business rules for Out-door Activity Website Case-Study
-    -Team project experience of 4 members for 14 weeks 
+    -Team project experience of 4 members for 8 weeks 
     -RDBMS structure, logical modeling, normalization, physical modeling
     -MS-SQL creating tables and inserting data 
     -NoSQL of JSON structure, creating collections and documents using MongoDB 
@@ -101,6 +101,8 @@ o Oct 2018
     -Understanding Database Structure 
     -Creating Queries (select statement, joins, grouping) 
     -Report Building using MS Report Builder 
+    
+    https://github.com/JieunKwon/Query_and_Report
 
 o Oct 2018
 
