@@ -72,7 +72,7 @@ o Current
     - Database design and Class Design. 
     - Member registration and login, order items with shopping bag, and administration functionalities.  
     - Development environment: 
-     C# and .NET(ADO.NET, ASP.NET, Arrays and Collections, Exception handling), Visual Studio 2017, MySQL
+     C# and .NET(ADO.NET, ASP.NET, Arrays and Collections, Exception handling), Visual Studio 2017, MS-SQL 2017
 
 o Dec 2018
 
