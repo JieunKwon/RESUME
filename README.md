@@ -16,7 +16,7 @@ RESUME @ 2019 @ Full Stack Developer / Web Developer / Java Developer
     o	4 years Volunteer experiences
     o	Professional programming language skills
     o	Various Project Management experiences 
-    o	Self-motivated and a quick learner.
+    o	Self-motivated and a quick learner
     o	Strong problem solving ability
 
 
@@ -24,7 +24,7 @@ RESUME @ 2019 @ Full Stack Developer / Web Developer / Java Developer
 # EDUCATION
 
 
-o Sept 2017 - Apr 2019 (expected graduation date)	
+o Sept 2017 - Apr 2019 	
 
     Diploma in Computer Programmer at Sheridan College in Oakville  
     
