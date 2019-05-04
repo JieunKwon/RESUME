@@ -28,7 +28,7 @@ Full Stack Developer / Web Developer
 
 o Sept 2017 - Apr 2019 	
 
-    Diploma in Computer Programmer at Sheridan College in Oakville  
+    Diploma in Computer Programmer at Sheridan College in Oakville (GPA 3.9)
     
 o Mar 1996 - Feb 2000	
 
