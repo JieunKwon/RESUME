@@ -7,7 +7,11 @@
 
 RESUME @ 2019 
 
-Full Stack Developer / Web Developer 
+Full Stack Developer / Experienced Web Developer
+
+Seeking new oppertunities
+
+New Grad in April 2019  
 
 
 # SUMMARY
