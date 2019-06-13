@@ -154,9 +154,9 @@ o 2003 - 2004
 
 o Language 
     
-    HTML5 / CSS / Bootstrap 3
+    HTML5 / CSS / Bootstrap 
     
-    JS / JQuery / JSON
+    JS / React / JQuery / JSON
 
     Java / JavaEE
     
@@ -180,7 +180,7 @@ o Program or Tool
     
     GNS3 / Cisco Packet Tracer / WireShark
 
-    Visual Studio / NetBeans / Eclipse / Notepad++ 
+    Visual Studio / NetBeans / Eclipse / Notepad++ / Atom
     
     GitHub
     
