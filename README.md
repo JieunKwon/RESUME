@@ -48,10 +48,11 @@ o Jan 2012 - Jun 2016
 
     : Korean Community Library 
   
-    	Technical support of Library’s online management system for about 3,000 books and 400 membership account
-    	Installing and managing the technical tools for helping volunteer’s task such as barcode machine, printer, label printing machine, security camera, and laptop
-    	Creating the report files for monthly and yearly top members and best books using MS Access
-    	Training new volunteers for dealing with the library system 
+    -	Technical support of Library’s online management system for about 3,000 books and 400 membership account    
+    -	Installing and managing the technical tools for helping volunteer’s task such as barcode machine, printer, 
+       label printing machine, security camera, and laptop
+    -	Creating the report files for monthly and yearly top members and best books using MS Access
+    -	Training new volunteers for dealing with the library system 
 
 
 o Mar 2003 – Jul 2008	
@@ -61,10 +62,10 @@ o Mar 2003 – Jul 2008
     
     : INFOLIO.inc in Seoul of South Korea
     
-    	Web server and DB server management for running websites
-    	English learning online website development of total 100+ source files using ASP, JavaScript, and HTML
-    	Database design and creating queries with MS-SQL 
-    	Testing and debugging  
+    -	Web server and DB server management for running websites
+    -	English learning online website development of total 100+ source files using ASP, JavaScript, and HTML
+    -	Database design and creating queries with MS-SQL 
+    -	Testing and debugging  
  
  
 
@@ -152,15 +153,25 @@ o 2003 - 2004
 
 
 o Language 
+
+   Front-end: 
     
     HTML5 / CSS / Bootstrap 
     
-    JS / React / JQuery / JSON
+    JavaScript / React JS /  JQuery / 
+    
+    JSON
+    
+  OOP:
 
     Java / JavaEE
     
-    C# / .Net
+    C# and .Net
     
+  Back-end:
+  
+    Express and Node JS
+  
     JSP / ASP / PHP
     
 
@@ -182,6 +193,8 @@ o Program or Tool
     Visual Studio / NetBeans / Eclipse / Notepad++ / Atom
     
     GitHub
+    
+    
     
     
 # LANGUAGE
