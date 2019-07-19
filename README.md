@@ -53,7 +53,7 @@ o Jan 2012 - Jun 2016
     -	Installing and managing the technical tools for helping volunteer’s task such as barcode machine, 
         printer, label printing machine, security camera, and laptop
     -	Creating the report files for monthly and yearly top members and best books using MS Access
-    -	Training new volunteers for dealing with the library system 
+    -	Training new volunteers to deal with the library system 
 
 
 o Mar 2003 – Jul 2008	
