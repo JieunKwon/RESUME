@@ -44,10 +44,9 @@ o Mar 1996 - Feb 2000
 
 o Jan 2012 - Jun 2016
 
-    Founder and Lead of Volunteer, Technical Support 
+    Founder and Lead of Volunteer, Technical Support (Korean Community Library)
 
-    : Korean Community Library 
-  
+       
     -	Technical support of Library’s online management system 
         (about 3,000 books and 400 membership account)    
     -	Installing and managing the technical tools for helping volunteer’s task such as barcode machine, 
