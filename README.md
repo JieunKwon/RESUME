@@ -63,10 +63,10 @@ o Mar 2003 – Jul 2008
     
     : INFOLIO.inc in Seoul of South Korea
     
-    -	Web server and DB server management for running websites
-    -	English learning online website development of total 100+ source files using ASP, JavaScript, and HTML
-    -	Database design and creating queries with MS-SQL 
-    -	Testing and debugging  
+    -	Web server and DB server management for running websites
+    -	English learning online website development of total 100+ source files using ASP, JavaScript, and HTML
+    -	Database design and creating queries with MS-SQL 
+    -	Testing and debugging  
  
  
 
