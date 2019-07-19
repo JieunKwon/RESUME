@@ -48,7 +48,8 @@ o Jan 2012 - Jun 2016
 
     : Korean Community Library 
   
-    -	Technical support of Library’s online management system for about 3,000 books and 400 membership account    
+    -	Technical support of Library’s online management system 
+        (about 3,000 books and 400 membership account)    
     -	Installing and managing the technical tools for helping volunteer’s task such as barcode machine, 
         printer, label printing machine, security camera, and laptop
     -	Creating the report files for monthly and yearly top members and best books using MS Access
