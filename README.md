@@ -9,7 +9,7 @@ RESUME @ 2019
 
 Full Stack Developer / Experienced Web Developer
 
-Seeking new oppertunities
+Seeking New Oppertunities
 
 New Grad in April 2019  
 
@@ -76,7 +76,7 @@ o April 2019
     Online Bookstore Web Application 
     
     - Implementation of basic concept for web application 
-    - Database design and Class Design. 
+    - Database and Class design. 
     - Member registration and login, order items with shopping bag, and administration functionalities  
     - Development environment: 
      C# and .NET(ADO.NET, ASP.NET, Arrays and Collections, Exception handling), Visual Studio 2017, MS-SQL 2017
@@ -91,12 +91,12 @@ o Dec 2018
 
 o Nov 2018
 
-    Database Design and Implementation for Out-door Activity Website
+    Database Design and Implementation for Out-door Activities Website
     (MS-SQL/NoSQL, MS-Visio, Visual Paradigm)
     
     - Database design process from the development of business rules for Out-door Activity Website Case-Study
     - Team project experience of 4 members for 8 weeks 
-    - RDBMS structure, logical modeling, normalization, physical modeling
+    - RDBMS structure, logical modeling, normalization, and physical modeling
     - MS-SQL creating tables and inserting data 
     - NoSQL of JSON structure, creating collections and documents using MongoDB 
 
