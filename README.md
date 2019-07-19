@@ -57,10 +57,10 @@ o Jan 2012 - Jun 2016
 
 o Mar 2003 – Jul 2008	
 
-    Web Developer, Web Master, Web Administrator
+    Web Developer, Web Master, Web Administrator (INFOLIO.inc in Seoul of South Korea)
+    
     (HTML, JavaScript, CSS, ASP, PHP, MS-SQL, MySQL) 
     
-    : INFOLIO.inc in Seoul of South Korea
     
     -	Web server and DB server management for running websites
     -	English learning online website development of total 100+ source files using ASP, JavaScript, and HTML
