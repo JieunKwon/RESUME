@@ -84,7 +84,7 @@ o Dec 2018
      Shoes Online Shopping - Web Application
      (MVC modeling implementation - JavaEE servlet, My-SQL, JSP, Bootstrap3 )
      
-     - online shopping application at the Java web technology platform, JSP, and servlets
+     - Online Shopping Application at the Java web technology platform, JSP, and servlets
       
 
 o Nov 2018
