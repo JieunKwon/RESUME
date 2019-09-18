@@ -20,10 +20,10 @@ New Grad in April 2019
     o	Diploma in Computer Programmer
     o	5 years Web Developer experiences
     o	4 years Volunteer experiences
-    o	Professional programming language skills
-    o	Various Project Management experiences 
+    o	Professional web programming skills
+    o	Various project management experiences 
     o	Self-motivated and a quick learner
-    o	Strong problem solving ability
+    o	Strong problem-solving ability
 
 
 
