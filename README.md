@@ -5,15 +5,12 @@
 
 
 
-RESUME @ 2019 
+RESUME @ 2020 
 
-Full Stack Developer / Experienced Web Developer
+Software Engineer / Full Stack Developer / Experienced Web Developer
 
 Seeking New Oppertunities
-
-New Grad in April 2019  
-
-
+ 
 # SUMMARY
 
     o	Bachelor degree in Electronic & Computer Engineering
